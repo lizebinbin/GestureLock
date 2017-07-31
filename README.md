@@ -1,6 +1,6 @@
 ## 手势解锁
 
-### 效果图
+### 效果图 
 
 ![](http://i.imgur.com/G4FUSxH.gif)
 
